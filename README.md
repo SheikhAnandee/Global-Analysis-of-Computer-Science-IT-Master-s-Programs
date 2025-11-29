@@ -1,5 +1,6 @@
 # Global-Analysis-of-Computer-Science-IT-Master-s-Programs
 
+# Analytics
 View the dashboards:
 
 - [Dashboard 1](https://public.tableau.com/app/profile/sheikh.anandee.hasan/viz/GlobalAnalysisofOn-CampusComputerScienceITMastersPrograms/TuitionComparisonDashboard)
